@@ -32,3 +32,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+# (Project Name WIP)
+### Less than 240 Characters describing what we're building. Include external links here if desired
+* Teammates:
+    - Eric Gomez (@EricG)
+    - Hardik Modi (@Hardik)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/your-profile/your-project-name)
+
+***
